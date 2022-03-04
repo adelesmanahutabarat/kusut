@@ -23,7 +23,7 @@ type: "featured"
 
 <hr>
 
-Untuk melakukan insert Data Master dan Detail dengan laravel 8, kita akan menggunakan jQuery untuk memudahkan kita membuat kolom detail pada interface halaman web Kita.
+Untuk melakukan insert Data Master dan Detail dengan laravel 9, kita akan menggunakan jQuery untuk memudahkan kita membuat kolom detail pada interface halaman web Kita.
 
 #### 1. Buat Project Laravel
 
