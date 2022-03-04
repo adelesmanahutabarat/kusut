@@ -1,6 +1,6 @@
 baseURL = 'https://benangkusut.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Benang Kusut'
 theme = "liva"
 
 summaryLength = "10"
