@@ -4,7 +4,7 @@ date: 2022-03-07T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/featured-post/constant-laravel.png"
+image: "images/featured-post/constants-laravel.png"
 
 # meta description
 description: "Constants Laravel"
