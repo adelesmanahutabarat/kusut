@@ -4,10 +4,10 @@ date: 2022-02-25T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/featured-post/master-detail.png"
+image: "images/featured-post/laravel/master-detail.png"
 
 # meta description
-description: "nsert Master dan Detail Kedalam Database"
+description: "Insert Master dan Detail Kedalam Database"
 
 # taxonomies
 categories:
