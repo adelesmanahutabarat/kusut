@@ -77,19 +77,19 @@ buka browser kamu dan jalankan
 Jika sudah, maka pada tampilan utama kamu akan ada link login dan register. Kamu sudah bisa langsung menggunakan autentikasi tersebut, silahkan register akun kemudian login.
 
 **Home**
-![image](../../images/post/auth-home.png)
+![authentication-benangkusut](../../images/post/auth-home.png)
 
 **Register**
-![image](../../images/post/auth-register.png)
+![authentication-benangkusut](../../images/post/auth-register.png)
 
 **Login**
-![image](../../images/post/auth-login.png)
+![authentication-benangkusut](../../images/post/auth-login.png)
 
 **Home setelah login**
-![image](../../images/post/auth-home-after-login.png)
+![authentication-benangkusut](../../images/post/auth-home-after-login.png)
 
 **Profile**
-![image](../../images/post/auth-profile.png)
+![authentication-benangkusut](../../images/post/auth-profile.png)
 
 ### Kesimpulan
 Dengan laravel kita tidak perlu lagi membuat Authentication/Autentikasi secara manual, karena dengan cara diatas pembuatan tabel, controller, model dan viewnya sudah dilakukan otomatis dengan perintah-perintah artisan pada command line tadi. Autentikasi tersebut bisa kita custom juga sesuai kebutuhan kita nantinya.
